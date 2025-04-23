@@ -1,0 +1,6 @@
+engine_cranks,lights_dim,warning_light,oil_leak,smoke_exhaust,fault
+0,1,0,0,0,Dead Battery
+1,1,1,0,0,Faulty Alternator
+0,0,0,1,1,Oil Leak
+1,0,0,0,1,Faulty Spark Plugs
+0,0,1,0,0,Electrical Issues

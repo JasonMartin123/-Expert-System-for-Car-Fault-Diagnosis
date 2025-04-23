@@ -1,0 +1,6 @@
+flask
+flask_sqlalchemy
+experta
+pandas
+scikit-learn
+joblib
